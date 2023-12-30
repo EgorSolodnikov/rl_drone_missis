@@ -1,3 +1,11 @@
+# Drone
+
+
+
+https://github.com/riensou/rl_drone/assets/90002238/be21efa2-d776-4b60-92c9-308bef7ee420
+
+
+
 # Setup
 
 1. Create a conda environment that will contain python 3:
