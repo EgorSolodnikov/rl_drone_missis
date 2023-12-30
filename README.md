@@ -20,3 +20,10 @@ pip install -r requirements.txt
 ```
 $ pip install -e .
 ```
+
+# Visualizing with Tensorboard
+
+You can visualize your runs using tensorboard:
+```
+tensorboard --logdir data
+```
