@@ -1,10 +1,12 @@
-# Drone
+# Results
 
+https://github.com/riensou/rl_drone/assets/90002238/b56220b4-e431-40de-b099-ae7f3650d1a1
 
+# References
 
-https://github.com/riensou/rl_drone/assets/90002238/be21efa2-d776-4b60-92c9-308bef7ee420
-
-
+[PyFlyt environment](https://jjshoots.github.io/PyFlyt/documentation/gym_envs/quadx_waypoints_env.html
+)
+[stable baselines](https://stable-baselines3.readthedocs.io/en/master/index.html)
 
 # Setup
 
