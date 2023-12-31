@@ -1,8 +1,7 @@
 # Results
 
 https://github.com/riensou/rl_drone/assets/90002238/b56220b4-e431-40de-b099-ae7f3650d1a1
-
-<img width="1037" alt="reward" src="https://github.com/riensou/rl_drone/assets/90002238/1d8f093e-5588-4770-9718-64626ed081f2">
+https://github.com/riensou/rl_drone/assets/90002238/10f46ea1-41ff-4596-8c67-2c206ef303cc
 
 # References
 
